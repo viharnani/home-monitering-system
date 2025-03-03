@@ -18,20 +18,22 @@ A full-stack IoT application for monitoring and managing energy consumption in a
 - **Authentication**: JWT
 
 
-## 🚀 Project Structure
 
-- **server/**  
+  ## 🚀 Project Structure
+
+```
+- server/  
   - .env  
   - index.js  
   - package.json  
   - README.md  
 
-- **src/**  
-  - **components/**  
-  - **hooks/**  
-  - **lib/**  
-  - **pages/**  
-  - **services/**  
+- src/  
+  - components/  
+  - hooks/  
+  - lib/  
+  - pages/  
+  - services/  
   - App.css  
   - App.tsx  
   - index.css  
@@ -49,3 +51,32 @@ A full-stack IoT application for monitoring and managing energy consumption in a
 - README.md  
 - tailwind.config.ts  
 - tsconfig.json  
+```
+
+---
+
+## 🛠️ Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/viharnani/home-monitering-system.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd home-monitering-system
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+5. **Open the app in your browser:**
+   The app should be running at [http://localhost:3000](http://localhost:3000)
+
