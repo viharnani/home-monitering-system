@@ -77,6 +77,3 @@ A full-stack IoT application for monitoring and managing energy consumption in a
    npm run dev
    ```
 
-5. **Open the app in your browser:**
-   The app should be running at [http://localhost:3000](http://localhost:3000)
-
